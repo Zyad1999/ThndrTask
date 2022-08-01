@@ -1,0 +1,10 @@
+fastapi
+pydantic
+uvicorn
+starlette
+sqlalchemy
+loguru
+bcrypt
+passlib
+psycopg2
+paho-mqtt

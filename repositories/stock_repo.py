@@ -1,5 +1,3 @@
-from turtle import st
-from unicodedata import name
 from fastapi import HTTPException, status
 from sqlalchemy.orm import Session
 from entities.models.stock import Stock

@@ -6,6 +6,6 @@ sqlalchemy
 loguru
 bcrypt
 passlib
-psycopg2
+psycopg2-binary
 paho-mqtt
 pydantic[email]
